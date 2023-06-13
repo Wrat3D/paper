@@ -1,2 +1,3 @@
 Bloggs et al 2004, Describe PCASP insturement.
 Jones et al 1998, Previous studies
+Smith et al 2002, atmospheric box model
