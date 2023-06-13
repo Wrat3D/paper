@@ -4,6 +4,10 @@ Aging of biomass burning aerosols over West Africa
 #Author
 Dominic Wales
 
+#Affiliations
+University of Life, Lifeville, Life 49
+
+
 #Introduction
 We present aircraft measurements of BBOA over West Africa.
 
